@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.paypal.cordova.mobilesdk": {
+            "PACKAGE_NAME": "com.mycompany.cordova.myshop"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.mycompany.cordova.myshop"
+        }
+    },
+    "dependent_plugins": {
+        "card.io.cordova.mobilesdk": {
+            "PACKAGE_NAME": "com.mycompany.cordova.myshop"
+        }
+    }
+}

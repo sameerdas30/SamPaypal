@@ -1,0 +1,19 @@
+{
+    "name": "com.mycompany.cordova.myshop",
+    "version": "0.0.1",
+    "displayName": "MyCordovaShop",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "com.paypal.cordova.mobilesdk": {},
+            "cordova-plugin-console": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3",
+        "com.paypal.cordova.mobilesdk": "~3.5.0",
+        "cordova-plugin-console": "~1.1.0"
+    }
+}
